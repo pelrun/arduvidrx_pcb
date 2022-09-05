@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "rx5808")(type "KiCad")(uri "${KIPRJMOD}/rx5808.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-040CH")(type "Legacy")(uri "${KIPRJMOD}/PJ-040CH.lib")(options "")(descr ""))
+  (lib (name "SJ2-25414D-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/SJ2-25414D-SMT-TR.lib")(options "")(descr ""))
+)
